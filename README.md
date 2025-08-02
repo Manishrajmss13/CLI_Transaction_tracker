@@ -24,10 +24,14 @@ cd CLI_Transactiion_tracker
 python main.py
 ```
 
-## Sample outputs:
+## Screenshots
 
-<img width="435" height="497" alt="image" src="https://github.com/user-attachments/assets/196ede86-adf0-4396-aaa0-230851b0825f" />
-<img width="435" height="497" alt="image" src="https://github.com/user-attachments/assets/49f41730-c0a2-4db2-a44a-86222000a806" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/196ede86-adf0-4396-aaa0-230851b0825f" width="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/49f41730-c0a2-4db2-a44a-86222000a806" width="350"/></td>
+  </tr>
+</table>
 
 
 
