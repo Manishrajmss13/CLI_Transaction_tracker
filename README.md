@@ -16,8 +16,8 @@ This project helps users keep track of their income and expenses directly from t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Manishrajmss13/CLI_Transactiion_tracker.git
-cd CLI_Transactiion_tracker
+git clone https://github.com/Manishrajmss13/CLI_Transaction_tracker.git
+cd CLI_Transaction_tracker
 ```
 2. To run the program:
 ```bash
